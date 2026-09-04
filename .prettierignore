@@ -1,0 +1,5 @@
+dist
+storybook-static
+coverage
+docs/*.gif
+docs/*.mp4
